@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dish04 pls call me Dishanth
-- 👀 I’m interested in anything which is interesting and not boring like websites
+- 👀 I’m interested in anything which is interesting
 - 🌱 I’m currently learning ai and ml
-- 💞️ I’m looking to collaborate on anythin <3 (which is interesting and i get to learn new stuff)
+- 💞️ I’m looking to collaborate on anythin <3 (new stuff)
 - 📫 How to reach me email me dishantharya04@gmail.com
 
 <!---
