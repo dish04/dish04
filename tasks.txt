@@ -1,0 +1,16 @@
+task 6 
+	Q)Can you get user and group information about another user without sudo privileges? Which among the commands listed on this slide can help get this info?
+	A)Yes. id can help to get current user and group and getent passwd can help you get all users.
+
+task 7
+	Q)How can you reset the password of a user who hasn't set any password recovery mechanism?
+	A)
+
+task 8 
+	Q)What can you use to navigate to your home directory with minimum arguments?
+	A)cd <abs path of home> or cd /home
+
+task 9
+	Q)Can the du command summarize and show all entries at teh same time?
+	A)Yes? using  du -ah?
+ 
