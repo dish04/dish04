@@ -1,4 +1,4 @@
-<img src = "[https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif](https://media1.tenor.com/m/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif)">
+<img src = "https://media1.tenor.com/m/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif">
 
 <!---
 dish04/dish04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
