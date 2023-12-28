@@ -1,5 +1,6 @@
 ## Hello World
-<img src = "https://images.squarespace-cdn.com/content/v1/610179e7006e8156a3c79a9f/593f629a-b02c-41a3-bbc8-a69ee2e8f37f/hello+world+%280.42KB%29_2.gif?format=2500w">
+
+<img src = "https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif">
 
 <!---
 dish04/dish04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
