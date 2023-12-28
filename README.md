@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @dish04 pls call me Dishanth
-- 👀 I’m interested in anything which is interesting
-- 🌱 I’m currently learning ai and ml
-- 💞️ I’m looking to collaborate on anythin <3 (new stuff)
-- 📫 How to reach me email me dishantharya04@gmail.com
+###Hello World <img src = "https://images.squarespace-cdn.com/content/v1/610179e7006e8156a3c79a9f/593f629a-b02c-41a3-bbc8-a69ee2e8f37f/hello+world+%280.42KB%29_2.gif?format=2500w">
 
 <!---
 dish04/dish04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
