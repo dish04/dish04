@@ -1,5 +1,3 @@
-## Hello World
-
 <img src = "https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif">
 
 <!---
