@@ -3,13 +3,15 @@
 <img src="https://media.tenor.com/vZZEPrwfe6AAAAAi/happy-amine.gif" align = "right" height=200px width=200px>
 
 <p>
-  Studying AI at <a href="https://www.nitk.ac.in/">National Institute of Technology, Karnataka</a> </br>Currently exploring emerging technologies to fuel my curiosity.<img src="https://media.tenor.com/1UoL-HJFGDAAAAAi/pentol-stiker-pentol.gif" height=30 width=30>
+  Studying AI at <a href="https://www.nitk.ac.in/">National Institute of Technology, Karnataka</a> </br>Currently exploring emerging technologies to fuel my curiosity.<img src="https://media.tenor.com/1UoL-HJFGDAAAAAi/pentol-stiker-pentol.gif" height=30 width=30> </br>Love to meet new people and collaborate </br>Hit me up on,
 </p>
 
 [![Twitter: DishanthArya](https://img.shields.io/badge/Twitter-black?logo=x)](https://twitter.com/Dishantharya04)
 [![Instagram: dgn_weeb](https://img.shields.io/badge/Instagram-black?logo=instagram)](https://instagram.com/dgn_weeb/)
 [![GitHub: dish04](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/dish04/)
 [![Discord: dish04](https://img.shields.io/badge/Discord-black?logo=discord)](https://discordapp.com/users/degnrate_weeb)
+
+## <h3>me.java</h3>
 
 ```java
 public class Dishanth{
