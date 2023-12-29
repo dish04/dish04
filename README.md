@@ -3,7 +3,7 @@
 <img src="https://media.tenor.com/vZZEPrwfe6AAAAAi/happy-amine.gif" align = "right" height=200px width=200px>
 
 <p>
-  Studying AI at <a href="https://www.nitk.ac.in/">National Institute of Technology, Karnataka</a> </br>Currently exploring emerging technologies to fuel my curiosity.<img src="https://media.tenor.com/1UoL-HJFGDAAAAAi/pentol-stiker-pentol.gif" height=30 width=30> </br>Love to meet new people and collaborate </br>Hit me up on,
+  Studying AI at <a href="https://www.nitk.ac.in/">National Institute of Technology, Karnataka.</a> </br>Currently exploring emerging technologies to fuel my curiosity.<img src="https://media.tenor.com/1UoL-HJFGDAAAAAi/pentol-stiker-pentol.gif" height=30 width=30> </br>Love to meet new people and collaborate. </br>Hit me up on,
 </p>
 
 [![Twitter: DishanthArya](https://img.shields.io/badge/Twitter-black?logo=x)](https://twitter.com/Dishantharya04)
