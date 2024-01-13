@@ -21,7 +21,7 @@ public class Dishanth{
   public Dishanth(){
     this.Languages = {"Java","C","Python","HTML","CSS","Javascript","SQL"};
     this.MobileDevelopment = {"Android Studio"};
-    this.Tools = {"TensorFlow","React"};
+    this.Tools = {"TensorFlow","Flutter","React"};
   }
   public List<String> getProjects(){
     List<String> Projects = new ArrayList<String>();
