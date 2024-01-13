@@ -28,6 +28,7 @@ public class Dishanth{
     Projects.add("Voice modifier app(Android)");
     Projects.add("Personal Assisstant app");
     Projects.add("Gender Recognizer from Image");
+    Projects.add("Cats and Dogs Recognizer app(Flutter)")
     return Projects;
   }
   public void WorkingOn(){
