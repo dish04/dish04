@@ -10,6 +10,7 @@
 [![Instagram: dgn_weeb](https://img.shields.io/badge/Instagram-black?logo=instagram)](https://instagram.com/dgn_weeb/)
 [![GitHub: dish04](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/dish04/)
 [![Discord: dish04](https://img.shields.io/badge/Discord-black?logo=discord)](https://discordapp.com/users/degnrate_weeb)
+[![LinkedIn: Dishanth Arya](https://img.shields.io/badge/LinkedIn-black?logo=linkedin)](https://www.linkedin.com/in/dishanth-arya-74b3192aa/)
 
 ## <h3>me.java</h3>
 
