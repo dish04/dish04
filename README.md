@@ -29,11 +29,12 @@ public class Dishanth{
     Projects.add("Voice modifier app(Android)");
     Projects.add("Personal Assisstant app");
     Projects.add("Gender Recognizer from Image");
-    Projects.add("Cats and Dogs Recognizer app(Flutter)")
+    Projects.add("Cats and Dogs Recognizer app(Flutter)");
+    Projects.add("AI solver for 2048")
     return Projects;
   }
   public void WorkingOn(){
-    System.out.println("Currently working on an AI to solve 2048");
+    System.out.println("Currently working on an webapp for F1 racing AI and simulator");
   }
   public void Interests(){
     System.out.println("Interested in Machine Learning and AI");
