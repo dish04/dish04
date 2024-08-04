@@ -19,22 +19,24 @@ public class Dishanth{
   private String[] Languages;
   private String[] MobileDevelopment;
   private String[] Tools;
+  List<String> Projects = new ArrayList<String>();
   public Dishanth(){
     this.Languages = {"Java","C","Python","HTML","CSS","Javascript","SQL"};
     this.MobileDevelopment = {"Android Studio"};
     this.Tools = {"TensorFlow","Flutter","React"};
+    this.Projects = Projects;
   }
   public List<String> getProjects(){
-    List<String> Projects = new ArrayList<String>();
-    Projects.add("Voice modifier app(Android)");
-    Projects.add("Personal Assisstant app");
-    Projects.add("Gender Recognizer from Image");
+    Projects.add("F1 racing AI and simulator")
+    Projects.add("AI solver for 2048");
     Projects.add("Cats and Dogs Recognizer app(Flutter)");
-    Projects.add("AI solver for 2048")
+    Projects.add("Voice modifier app(Android)");
+    Projects.add("Gender Recognizer from Image");
+    Projects.add("Personal Assisstant app");
     return Projects;
   }
   public void WorkingOn(){
-    System.out.println("Currently working on an webapp for F1 racing AI and simulator");
+    System.out.println("Learning LLMs");
   }
   public void Interests(){
     System.out.println("Interested in Machine Learning and AI");
